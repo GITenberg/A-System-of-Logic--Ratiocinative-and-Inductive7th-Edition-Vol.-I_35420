@@ -1,0 +1,31 @@
+_repo: A-System-of-Logic--Ratiocinative-and-Inductive7th-Edition-Vol.-I_35420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2011-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcsh 'Knowledge, Theory of'
+- !lcc 'BC'
+- !lcsh 'Science -- Methodology'
+title: 'A System of Logic: Ratiocinative and Inductive, 7th Edition, Vol. I'
+url: http://www.gutenberg.org/ebooks/35420
